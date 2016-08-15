@@ -352,7 +352,7 @@
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3" />
   <!-- ti omap4 must be updated to MM... -->
-  <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" revision="stable" remote="Dreams-Lp" /> 
+  <project path="hardware/ti/omap4" name="android_hardware_ti_omap4" revision="stable" remote="Dreams-Mm" /> 
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah" />
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" groups="omap4" />
   <project path="libcore" name="platform/libcore" groups="pdk" />
@@ -494,6 +494,6 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="vendor/ds" name="android_vendor_ds" revision="lollipop-mr1-release" remote="Dreams-Lp" />
+  <project path="vendor/ds" name="android_vendor_ds" revision="marshmallow" remote="Dreams-Mm" />
 
 </manifest>
