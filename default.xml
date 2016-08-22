@@ -4,8 +4,8 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
 
- <remote name="Dreams-Lp"
-           fetch="https://github.com/Dreams-Lp/" />
+ <remote name="Dreams-Mm"
+           fetch="https://github.com/Dreams-Mm/" />
 
  <remote name="manumanfred"
            fetch="https://github.com/manumanfred/" />
