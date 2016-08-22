@@ -64,7 +64,7 @@
   -->
   <project path="device/samsung/i9105p" name="android_device-samsung-i9105p" revision="aosp-6.0" remote="manumanfred" />
   <project path="device/samsung/galaxys2plus-common" name="android_device_samsung_galaxys2plus-common" revision="aosp-6.0" remote="manumanfred" />
-  <project path="kernel/samsung/tuna/galaxys2plus-common" name="android_kernel_samsung_galaxys2plus-common" revision="aosp-6.0" remote="manumanfred" />
+  <project path="kernel/samsung/galaxys2plus-common" name="android_kernel_samsung_galaxys2plus-common" revision="aosp-6.0" remote="manumanfred" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/android-clat" name="platform/external/android-clat" groups="pdk-cw-fs,pdk-fs" />
