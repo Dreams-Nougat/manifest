@@ -13,9 +13,6 @@
  <remote name="CyanogenMod"
            fetch="https://github.com/CyanogenMod/" />
 
- <remote name="Ziyann"
-           fetch="https://github.com/Ziyann/" />
-
  <remote name="OMAP4-AOSP"
            fetch="https://github.com/OMAP4-AOSP/" />
 
@@ -62,7 +59,7 @@
   <project path="device/samsung/maguro" name="device-samsung-maguro" revision="lollipop-mr1-fi-release" remote="manumanfred" />
   <project path="kernel/samsung/tuna" name="kernel_omap" revision="MmWOpt" remote="manumanfred" />
   -->
-  <project path="device/samsung/i9105p" name="android_device-samsung-i9105p" revision="aosp-6.0" remote="manumanfred" />
+  <project path="device/samsung/i9105p" name="android_device_samsung_i9105p" revision="aosp-6.0" remote="manumanfred" />
   <project path="device/samsung/galaxys2plus-common" name="android_device_samsung_galaxys2plus-common" revision="aosp-6.0" remote="manumanfred" />
   <project path="kernel/samsung/galaxys2plus-common" name="android_kernel_samsung_galaxys2plus-common" revision="aosp-6.0" remote="manumanfred" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" />
