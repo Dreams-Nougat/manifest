@@ -358,13 +358,8 @@
   <project path="hardware/ti/omap4xxx" name="platform_hardware_ti_omap4xxx" groups="omap4" revision="marshmallow-dr-dragon-release" remote="Dreams-Mm" />
   <project path="libcore" name="platform/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
-  <!--
-  --- Build this later. org.cyanogenmod.platform.sdk_intermediates/classes.jack', neede
-  ---
-  ---
+  <!-- Build this later. org.cyanogenmod.platform.sdk_intermediates/classes.jack', needed
   <project path="packages/apps/AudioFX" name="android_packages_apps_AudioFX" revision="cm-13.0" remote="CyanogenMod" />
-  ---
-  ---
   -->
   <project path="ndk" name="platform/ndk" groups="generic_fs" />
   <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" groups="pdk-cw-fs,pdk-fs" />
@@ -396,7 +391,6 @@
   <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" groups="pdk-fs" />
   <project path="packages/apps/Messaging" name="platform/packages/apps/Messaging" groups="pdk-fs" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" groups="pdk-fs" />
-  <!-- Lets's use AudoFX from CM later...  -->
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" groups="pdk-fs" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="apps_nfc,pdk-fs" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" groups="pdk-fs" />
