@@ -497,5 +497,6 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/ds" name="android_vendor_ds" revision="marshmallow" remote="Dreams-Mm" />
+  <project path="vendor/samsung/galaxys2plus-common" name="proprietary_vendor_samsung_galaxys2plus-common" revision="cm-13.0" remote="manumanfred" />
 
 </manifest>
