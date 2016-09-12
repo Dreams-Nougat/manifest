@@ -543,6 +543,6 @@
   <project path="tools/test/connectivity" name="platform/tools/test/connectivity" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
   <project path="vendor/ds" name="android_vendor_ds" revision="Nougat" remote="Dreams-N" />
-  <project path="vendor/samsung/galaxys2plus-common" name="proprietary_vendor_samsung_galaxys2plus-common" revision="cm-13.0" remote="manumanfred" />
+  <project path="vendor/samsung/galaxys2plus-common" name="proprietary_vendor_samsung_galaxys2plus-common" revision="Nougat" remote="manumanfred" />
 
 </manifest>
