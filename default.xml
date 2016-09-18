@@ -14,7 +14,7 @@
            fetch="https://github.com/CyanogenMod/" />
 
  <remote name="OMAP4-AOSP"
-           fetch="https://github.com/OMAP4-AOSP/" />
+           fetch="https://github.cLom/OMAP4-AOSP/" />
 
   <default revision="refs/tags/android-7.0.0_r6"
            remote="aosp"
@@ -443,7 +443,7 @@
   <project path="packages/apps/TV" name="platform/packages/apps/TV" />
   <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" groups="pdk-fs" />
   <project path="packages/experimental" name="platform/packages/experimental" />
-  <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" groups="pdk-fs" />
+  <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" groups="pdk-fs" revision="nougat-release-bcm" remote="Dreams-N" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" groups="pdk-fs" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" groups="pdk-fs" />
   <project path="packages/providers/BlockedNumberProvider" name="platform/packages/providers/BlockedNumberProvider" groups="pdk-fs" />
