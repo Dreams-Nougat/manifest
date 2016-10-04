@@ -16,7 +16,7 @@
  <remote name="OMAP4-AOSP"
            fetch="https://github.cLom/OMAP4-AOSP/" />
 
-  <default revision="refs/tags/android-7.0.0_r6"
+  <default revision="refs/tags/android-7.0.0_r11"
            remote="aosp"
            sync-c="true"
            sync-f="true"
