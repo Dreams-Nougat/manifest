@@ -15,9 +15,7 @@
 
   <default revision="refs/tags/android-7.0.0_r11"
            remote="aosp"
-           sync-c="true"
-           sync-f="true"
-           sync-j="4" />
+           sync-j="16" />
 
   <project path="build" name="platform_build" groups="pdk,tradefed" revision="nougat-release-bcm" remote="Dreams-N" >
     <copyfile src="core/root.mk" dest="Makefile" />
