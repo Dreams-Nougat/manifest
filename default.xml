@@ -17,7 +17,7 @@
  <remote name="CyanogenMod"
            fetch="https://github.com/CyanogenMod/" />
 
-  <default revision="refs/tags/android-7.0.0_r11"
+  <default revision="refs/tags/android-7.1.1_r6"
            remote="aosp"
            sync-j="16" />
 
@@ -68,7 +68,7 @@
   -->
   <project path="device/samsung/i9105p" name="android_device_samsung_i9105p" revision="nougat-release" remote="manumanfred" />
   <project path="device/samsung/galaxys2plus-common" name="android_device_samsung_galaxys2plus-common" revision="nougat-release" remote="manumanfred" />
-  <project path="kernel/samsung/galaxys2plus-common" name="android_kernel_samsung_galaxys2plus-common" revision="cm-14.0" remote="ghsr" />
+  <project path="kernel/samsung/galaxys2plus-common" name="android_kernel_samsung_galaxys2plus-common" revision="cm-14.1" remote="ghsr" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" groups="pdk-cw-fs,pdk-fs" />
   <project path="external/aac" name="platform/external/aac" groups="pdk" />
   <project path="external/adt-infra" name="platform/external/adt-infra" groups="adt-infra,notdefault" />
